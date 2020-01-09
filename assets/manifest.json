@@ -1,0 +1,20 @@
+{
+  "short_name": "Olympus",
+  "name": "Olympus - Essential Security &amp; Performance for WordPress.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "144x144 120x120 114x114 76x76",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1f6bff",
+  "background_color": "#ffffff"
+}
